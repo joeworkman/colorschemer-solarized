@@ -10,15 +10,17 @@ Modified: 2011 Aug 3
 Solarized Colorscheme for ColorSchemer Studio
 =============================
 
-Developed by Joe Workman (http://joeworkman.net)
+Developed by [Joe Workman]
 
-This colorscheme was developed in order to provide quick access to the entire Solarized ColorScheme and its palettes in the [ColorSchemer Studio] application. 
+This colorscheme was developed in order to provide quick access to the entire [Solarized ColorScheme] and its palettes in the [ColorSchemer Studio] desktop application. 
 
 If you have come across this colorscheme via the [repository] on 
 github, visit the [Solarized homepage] or visit the main
 [Solarized repository].
 
+[Joe Workman]: http://joeworkman.net/
 [ColorSchemer Studio]: http://www.colorschemer.com/
+[Solarized ColorScheme]: http://ethanschoonover.com/solarized
 [repository]: https://github.com/joeworkman/colorschemer-solarized
 [Solarized homepage]:   http://ethanschoonover.com/solarized
 [Solarized repository]: https://github.com/altercation/solarized
@@ -31,7 +33,7 @@ Screenshots
 Installation & Usage
 ------------
 
-Sincw this is a ColorSchemer Studio document, you will need to store this in a location where you can access it when you need it. Simply double click the file and it will open in ColorSchemer Studio. 
+Since this is only ColorSchemer Studio document, you will need to store this in a location where you can access it when you need it. Simply double click the file and it will open in ColorSchemer Studio. 
 
 License
 -------
