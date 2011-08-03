@@ -4,6 +4,7 @@ Description: Precision colors for machines and people
 Author: Joe Workman
 Created:  2011 Aug 3
 Modified: 2011 Aug 3
+
 ---
 
 Solarized Colorscheme for ColorSchemer Studio
